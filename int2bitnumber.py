@@ -2,3 +2,5 @@ num = 11579208921035624876269744694940757352999695522413576034242225906106851204
 binary_str = bin(num)
 num_bits = len(binary_str) - 2  # 减去前缀 '0b'
 print(f"{num} 转换为二进制占用 {num_bits} 位。")
+
+#test
